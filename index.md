@@ -11,7 +11,7 @@ detail about me:
 
 
 Buy stocks together
-[My Watch List]
+[My Watch List](stock.html)
 
 
 
