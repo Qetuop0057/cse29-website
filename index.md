@@ -20,8 +20,23 @@ Buy stocks together
 
 <h2>SYSTEM STATUS</h2>
 
-<ul>
-<li>Sleep: 12%</li>
-<li>Caffeine: 89%</li>
-<li>CSE29 sanity: critical</li>
-</ul>
+<div style="background:#111; color:#00ff66; padding:18px; border-radius:12px; font-family:monospace; width:350px;">
+
+<p>> Sleep</p>
+<div style="background:#333; border-radius:10px;">
+  <div style="background:#00ff66; width:12%; padding:5px; border-radius:10px;">12%</div>
+</div>
+
+<p>> Caffeine</p>
+<div style="background:#333; border-radius:10px;">
+  <div style="background:#00ff66; width:89%; padding:5px; border-radius:10px;">89%</div>
+</div>
+
+<p>> CSE29 sanity</p>
+<div style="background:#333; border-radius:10px;">
+  <div style="background:red; width:5%; padding:5px; border-radius:10px;">critical</div>
+</div>
+
+<p style="color:red;">STATUS: barely functional</p>
+
+</div>
