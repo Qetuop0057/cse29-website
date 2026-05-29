@@ -9,5 +9,9 @@ Current student at ucsd [Visit UCSD](https://ucsd.edu)
 detail about me:
 [About Page](about.html)
 
-See my cat!
+
+
+
+
+[See my cat!](cat.html)
 
